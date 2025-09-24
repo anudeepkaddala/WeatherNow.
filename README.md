@@ -24,30 +24,13 @@ API: Open-Meteo (public, no API key required)
 
 State Management: React useState & custom hooks
 
-Folder Structure
+Folder Structure can be known from the above structure itself.
 
-WeatherNow/
 
-frontend/
 
-src/
 
-components/ (SearchBar, WeatherCard, ErrorMessage)
 
-hooks/ (useWeather.js)
-
-styles/ (CSS files for components)
-
-App.js
-
-index.js
-
-package.json
-
-README.md
-
-Installation
-
+Installation:
 Clone the repository.
 
 Navigate to the frontend folder.
