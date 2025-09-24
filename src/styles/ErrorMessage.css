@@ -1,0 +1,20 @@
+.error-message {
+  padding: 10px;
+  border-radius: 12px;
+  max-width: 300px;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 15px;
+  font-weight: 500;
+  box-sizing: border-box;
+}
+
+.light-mode .error-message {
+  background-color: #fee2e2;
+  color: #b91c1c;
+}
+
+.dark-mode .error-message {
+  background-color: #7f1d1d;
+  color: #fecaca;
+}
