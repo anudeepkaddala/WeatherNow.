@@ -2,6 +2,8 @@ WeatherNow
 
 WeatherNow is a lightweight, responsive React application that allows users to check current weather conditions for any city quickly and easily. Designed for outdoor enthusiasts like Jamie, the app focuses on a clean, user-friendly interface with instant weather information.
 
+Application is hosted on : https://255s2s-3000.csb.app/
+
 Features
 
 Search for any city and view its current weather.
@@ -39,7 +41,6 @@ Install dependencies with npm install.
 
 Start the development server with npm start.
 The app will open in your default browser at http://localhost:3000
-The app will run on https://255s2s-3000.csb.app/
 .
 
 Usage
