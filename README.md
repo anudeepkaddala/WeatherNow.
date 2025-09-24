@@ -39,6 +39,7 @@ Install dependencies with npm install.
 
 Start the development server with npm start.
 The app will open in your default browser at http://localhost:3000
+The app will run on https://255s2s-3000.csb.app/
 .
 
 Usage
